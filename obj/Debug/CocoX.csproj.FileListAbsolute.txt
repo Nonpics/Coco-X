@@ -1,0 +1,10 @@
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\bin\Debug\CocoX.exe.config
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\bin\Debug\CocoX.exe
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\bin\Debug\CocoX.pdb
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\CocoX.csprojAssemblyReference.cache
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\QuickSploit.Properties.Resources.resources
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\CocoX.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\CocoX.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\CocoX.exe
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\CocoX.pdb
+C:\Users\xxx\Desktop\QuickSploit\QuickSploit\obj\Debug\CocoX.CocoX.resources

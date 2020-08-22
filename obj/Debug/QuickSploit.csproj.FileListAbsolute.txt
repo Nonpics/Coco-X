@@ -1,0 +1,10 @@
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\bin\Debug\QuickSploit.exe.config
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\bin\Debug\QuickSploit.exe
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\bin\Debug\QuickSploit.pdb
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.Properties.Resources.resources
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.QuickSPloit.resources
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.csproj.GenerateResource.cache
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.exe
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.pdb
+C:\Users\nicho\source\repos\QuickSploit\QuickSploit\obj\Debug\QuickSploit.csprojAssemblyReference.cache
